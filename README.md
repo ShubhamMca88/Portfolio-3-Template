@@ -12,7 +12,7 @@ This portfolio template is a valuable resource for creating your own portfolio w
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/ShubhamMca88/Portfolio-2-Template.git
+    git clone https://github.com/ShubhamMca88/Portfolio-3-Template.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
